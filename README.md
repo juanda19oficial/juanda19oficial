@@ -1,4 +1,5 @@
 ### Hi there 👋
+Mi nombre es Juan, estudiante de tercer semestre de ingeniería de sistemas y soy un amante de la programación.
 
 <!--
 **juanda19oficial/juanda19oficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
